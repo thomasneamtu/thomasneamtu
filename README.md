@@ -6,7 +6,7 @@
 
 My Name is Thomas and this is my Portfolio
 
-- 🔭 I’m currently working assignments for my Game Developnment Course
+- 🔭 I’m currently working on assignments for my Game Developnment Course
 - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m interested in learning Unreal Engine next 
 - 💬 Ask me about my favourite games
