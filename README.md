@@ -13,6 +13,6 @@ My Name is Thomas and this is my Portfolio
 - 📫 How to reach me: by email! tommyneamtu@gmail.com
 - 😄 Pronouns: He/Him
 
-Thanks!
+Thanks for stopping by!
   
 <>
