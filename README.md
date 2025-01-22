@@ -14,4 +14,5 @@ My Name is Thomas and this is my Portfolio
 - 😄 Pronouns: He/Him
 
   Thanks!
+  
 <>
