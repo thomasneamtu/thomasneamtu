@@ -6,13 +6,13 @@
 
 My Name is Thomas and this is my Portfolio
 
-- 🔭 I’m currently working on assignments for my Game Development Course
-- 🌱 I’m currently learning Unity and C#
-- 🤔 I’m interested in learning Unreal Engine next 
-- 💬 Ask me about my favourite games
-- 📫 How to reach me: by email! tommyneamtu@gmail.com
-- 😄 Pronouns: He/Him
+Here you will find future, current and past projects of mine.
 
-Thanks for stopping by!
-  
+I am currently using Unity and C# and am eager to branch out into more lanes of Game Development
+I am also extremely interested in Level Design and the polishing of visuals within game development.
+
+Most if not all current projects displayed on my Git are from my Circuit Stream Game Development Course,
+where I am actively learning game development and also looking for career opportunities within the industry.
+
+Enjoy, and thanks for stopping by!
 <>
