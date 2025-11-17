@@ -1,9 +1,5 @@
 ## Hello there! 👋
 
-<>
-
-✨ Welcome to my GitHub Profile ✨
-
 My Name is Thomas and this is my Portfolio
 
 Here you will find future, current and past projects of mine. (Important Projects are Pinned!)
