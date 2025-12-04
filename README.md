@@ -19,12 +19,12 @@ FOCUS - A Combat System Demo
 ![FOCUS-FinishedDEMO](https://github.com/user-attachments/assets/03632959-10b0-4da4-80b0-a556eec69dd1)
 
 
-Galaxzia - 
+Galaxzia - A 2D Bullet Hell Shooter
 
 ![Galaxzia-Gameplay](https://github.com/user-attachments/assets/0df38da7-cb83-4254-b041-2e47b889332d)
 
 
-TRAINING - 
+TRAINING - A First Person Puzzle Game
 
 ![TRAINING-Gameplay](https://github.com/user-attachments/assets/022d3dab-2e41-422e-bd5e-68f92145e9de)
 
